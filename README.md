@@ -1,1 +1,1 @@
-# bank_management_system
+It is created using C language and file handling in C.
